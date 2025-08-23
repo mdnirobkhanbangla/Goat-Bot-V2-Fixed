@@ -12,15 +12,15 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "সমকামী বিরোধী সাসুকে",
-  "prefix": "/",
+  "nickNameBot": " AK A NE AI",
+  "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089954169527"
-    "100089954169527"
+    "61574717120113",
+    "100095030602269"
   ],
   "whiteListMode": {
     "enable": false,
